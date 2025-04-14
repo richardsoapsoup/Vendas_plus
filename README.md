@@ -16,11 +16,13 @@ Sistema de vendas online com controle de produtos, vendas e relatórios.
 
 
 ## 👥 Equipe
-- [Nome 1]
-- [Nome 2]
-- [Nome 3]
-- [Nome 4]
+- [Richard Ricarte](#)
+- [Adler Alves](#)
+- [Samuel Almeida](#)
+- [Mariana Freitas](#)
+- [Vitor Batista](#)
+- [Elias Igor](#)
 
 ## 📌 Links
-- [Trello do projeto](#)
+- [Trello do projeto](https://trello.com/invite/b/67fd8ae9a47279a6ddf15b30/ATTIcd1e58f1a757fc6054a5df61e359eeac34B8A811/vendas)
 - [Protótipo (Figma)](#)
